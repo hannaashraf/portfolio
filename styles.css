@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+
+
+.navbar {
+    background-color: #fffffe;
+    display: flex;
+}
+body {
+    background-color: #232946;
+}
+
+.hey {
+    margin-top: 10%;
+}
+.intro {
+    background-color: #b8c1ec;
+    font-family: 'Merriweather', serif;
+    width: 900px;
+    margin-top: 10%;
+    padding: 4%;
+    border-radius: 5pc;
+}
+#home {
+    display: flex;
+}
+#education {
+    margin-top: 15%;
+    display: flex;
+
+}
+.education1 {
+    background-color:#b8c1ec ;
+    font-family: 'Merriweather', serif;
+    border-radius: 5pc;
+    padding: 4%;
+} 
+#skills {
+    margin-top: 20%;
+    display: flex;
+    margin-left: 2%;
+}
+.skills1 {
+    background-color:#b8c1ec ;
+    font-family: 'Merriweather', serif;
+    border-radius: 5pc;
+    padding: 4%;
+    margin-left: 5%;
+}
+#contact {
+    margin-top: 15%;
+    display: flex;
+    margin-bottom: 10%;
+}
+.contact1 {
+    background-color:#b8c1ec ;
+    font-family: 'Merriweather', serif;
+    border-radius: 5pc;
+    padding: 4%;
+}
+.gmail {
+    display: flex;
+    justify-content: space-between;
+}
+.gmailimage {
+    width: 30px;
+    height: 30px;
+}
+.callimage {
+    width: 30px;
+    height: 30px;
+}
+.call {
+    display: flex;
+}
+.linkedin {
+    display: flex;
+}
+.linkedinimage {
+    width: 30px;
+    height: 30px;
+}
+.instagramimage {
+    width: 30px;
+    height: 30px;   
+}
+.instagram {
+    display: flex;
+}
+.javas {
+    color: #b8c1ec;
+    padding-bottom: 5%;
+    font-family: 'Merriweather', serif;
+}
